@@ -36,3 +36,27 @@
     transform: rotate(360deg);
   }
 }
+
+.button-area {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+}
+
+.card {
+  margin-bottom: 2rem;
+}
+
+.shark-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.grave-cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
