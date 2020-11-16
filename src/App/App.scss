@@ -54,9 +54,10 @@
   justify-content: space-evenly;
 }
 
-.grave-cards {
+.graveYard {
   display: flex;
   flex-direction: row;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  background-color: darkgray;
 }
